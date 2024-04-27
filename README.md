@@ -1,15 +1,13 @@
-
 # Eye Direction
 
-Deep convolutional network to predict where the eyes are gazing
+This project involves using a deep convolutional network to predict where the eyes are gazing.
 
-*Selu activation works significantly better
+- **Activation Function**: The SELU (Scaled Exponential Linear Unit) activation works significantly better than other activation functions in this context.
 
-*More hidden layers did not generalize as well
+- **Hidden Layers**: Interestingly, adding more hidden layers did not lead to better generalization of the model.
 
-Reaches >90% accuracy on validation set
+The model achieves over 90% accuracy on the validation set.
 
+## Images from Dataset
 
-## Images from dataset
-
-<src img='Eye-Directional-Check\output.png'>
+![Eye Direction](Eye-Directional-Check/output.png)
