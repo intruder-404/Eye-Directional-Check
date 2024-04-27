@@ -10,4 +10,4 @@ The model achieves over 90% accuracy on the validation set.
 
 ## Images from Dataset
 
-![Eye Direction](Eye-Directional-Check/output.png)
+![Eye Direction](output.png)
